@@ -4,6 +4,6 @@ This will create a notification on the IFTTT app for when you receive rewards on
 Here you can find the details for the IFTTT applet.
 
 
-https://prnt.sc/1qsvgxr
+If: https://prnt.sc/1qsvgxr
 
-https://prnt.sc/1qsvimw
+Than: https://prnt.sc/1qsvimw
